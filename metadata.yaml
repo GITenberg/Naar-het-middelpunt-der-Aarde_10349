@@ -1,6 +1,9 @@
 _repo: Naar-het-middelpunt-der-Aarde_10349
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Voyage au centre de la terre. Dutch
+covers:
+- cover_type: archival
+  image_path: 10349-h/images/cover.jpg
 creator:
   author:
     agent_name: Verne, Jules
@@ -17,6 +20,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Júlio_Verne
     - http://en.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10349#Naar-het-middelpunt-der-Aarde
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
